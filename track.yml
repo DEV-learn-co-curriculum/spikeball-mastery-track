@@ -2,4 +2,7 @@
 track:
     title: Spikeball Mastery
     uuid: 4120730f-b004-457d-8031-fd2c8815a950
-    topics: []
+    topics:
+    -   title: Hitting the Ball
+        uuid: e6972b65-482d-41f6-9682-4f96cad159b8
+        units: []
